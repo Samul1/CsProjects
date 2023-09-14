@@ -1,0 +1,14 @@
+D:\Ohjelmointi\CSharp\meta\meta\bin\Debug\net6.0\meta.exe
+D:\Ohjelmointi\CSharp\meta\meta\bin\Debug\net6.0\meta.deps.json
+D:\Ohjelmointi\CSharp\meta\meta\bin\Debug\net6.0\meta.runtimeconfig.json
+D:\Ohjelmointi\CSharp\meta\meta\bin\Debug\net6.0\meta.dll
+D:\Ohjelmointi\CSharp\meta\meta\bin\Debug\net6.0\meta.pdb
+D:\Ohjelmointi\CSharp\meta\meta\obj\Debug\net6.0\meta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ohjelmointi\CSharp\meta\meta\obj\Debug\net6.0\meta.AssemblyInfoInputs.cache
+D:\Ohjelmointi\CSharp\meta\meta\obj\Debug\net6.0\meta.AssemblyInfo.cs
+D:\Ohjelmointi\CSharp\meta\meta\obj\Debug\net6.0\meta.csproj.CoreCompileInputs.cache
+D:\Ohjelmointi\CSharp\meta\meta\obj\Debug\net6.0\meta.dll
+D:\Ohjelmointi\CSharp\meta\meta\obj\Debug\net6.0\refint\meta.dll
+D:\Ohjelmointi\CSharp\meta\meta\obj\Debug\net6.0\meta.pdb
+D:\Ohjelmointi\CSharp\meta\meta\obj\Debug\net6.0\meta.genruntimeconfig.cache
+D:\Ohjelmointi\CSharp\meta\meta\obj\Debug\net6.0\ref\meta.dll
