@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\varjo\\.nuget\\packages\\": {},
-    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\OMISTAJA\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ohjelmointi\\CSharp\\meta\\meta\\meta.csproj",
+      "projectUniqueName": "C:\\Users\\OMISTAJA\\code\\CSharp\\meta\\meta\\meta.csproj",
       "projectName": "meta",
-      "projectPath": "D:\\Ohjelmointi\\CSharp\\meta\\meta\\meta.csproj",
-      "packagesPath": "C:\\Users\\varjo\\.nuget\\packages\\",
-      "outputPath": "D:\\Ohjelmointi\\CSharp\\meta\\meta\\obj\\",
+      "projectPath": "C:\\Users\\OMISTAJA\\code\\CSharp\\meta\\meta\\meta.csproj",
+      "packagesPath": "C:\\Users\\OMISTAJA\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\OMISTAJA\\code\\CSharp\\meta\\meta\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\varjo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\OMISTAJA\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

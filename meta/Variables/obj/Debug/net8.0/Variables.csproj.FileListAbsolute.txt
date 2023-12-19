@@ -1,0 +1,15 @@
+C:\Users\OMISTAJA\code\CSharp\meta\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMISTAJA\code\CSharp\meta\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\code\CSharp\meta\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+C:\Users\OMISTAJA\code\CSharp\meta\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\code\CSharp\meta\Variables\obj\Debug\net8.0\Variables.sourcelink.json
+C:\Users\OMISTAJA\code\CSharp\meta\Variables\bin\Debug\net8.0\Variables.exe
+C:\Users\OMISTAJA\code\CSharp\meta\Variables\bin\Debug\net8.0\Variables.deps.json
+C:\Users\OMISTAJA\code\CSharp\meta\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+C:\Users\OMISTAJA\code\CSharp\meta\Variables\bin\Debug\net8.0\Variables.dll
+C:\Users\OMISTAJA\code\CSharp\meta\Variables\bin\Debug\net8.0\Variables.pdb
+C:\Users\OMISTAJA\code\CSharp\meta\Variables\obj\Debug\net8.0\Variables.dll
+C:\Users\OMISTAJA\code\CSharp\meta\Variables\obj\Debug\net8.0\refint\Variables.dll
+C:\Users\OMISTAJA\code\CSharp\meta\Variables\obj\Debug\net8.0\Variables.pdb
+C:\Users\OMISTAJA\code\CSharp\meta\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+C:\Users\OMISTAJA\code\CSharp\meta\Variables\obj\Debug\net8.0\ref\Variables.dll

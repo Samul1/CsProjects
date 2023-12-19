@@ -1,0 +1,15 @@
+C:\Users\OMISTAJA\code\CSharp\meta\Output\bin\Debug\net8.0\Output.exe
+C:\Users\OMISTAJA\code\CSharp\meta\Output\bin\Debug\net8.0\Output.deps.json
+C:\Users\OMISTAJA\code\CSharp\meta\Output\bin\Debug\net8.0\Output.runtimeconfig.json
+C:\Users\OMISTAJA\code\CSharp\meta\Output\bin\Debug\net8.0\Output.dll
+C:\Users\OMISTAJA\code\CSharp\meta\Output\bin\Debug\net8.0\Output.pdb
+C:\Users\OMISTAJA\code\CSharp\meta\Output\obj\Debug\net8.0\Output.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMISTAJA\code\CSharp\meta\Output\obj\Debug\net8.0\Output.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\code\CSharp\meta\Output\obj\Debug\net8.0\Output.AssemblyInfo.cs
+C:\Users\OMISTAJA\code\CSharp\meta\Output\obj\Debug\net8.0\Output.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\code\CSharp\meta\Output\obj\Debug\net8.0\Output.sourcelink.json
+C:\Users\OMISTAJA\code\CSharp\meta\Output\obj\Debug\net8.0\Output.dll
+C:\Users\OMISTAJA\code\CSharp\meta\Output\obj\Debug\net8.0\refint\Output.dll
+C:\Users\OMISTAJA\code\CSharp\meta\Output\obj\Debug\net8.0\Output.pdb
+C:\Users\OMISTAJA\code\CSharp\meta\Output\obj\Debug\net8.0\Output.genruntimeconfig.cache
+C:\Users\OMISTAJA\code\CSharp\meta\Output\obj\Debug\net8.0\ref\Output.dll
