@@ -1,0 +1,15 @@
+C:\Users\OMISTAJA\code\CSharp\meta\Math\bin\Debug\net8.0\8.Math.exe
+C:\Users\OMISTAJA\code\CSharp\meta\Math\bin\Debug\net8.0\8.Math.deps.json
+C:\Users\OMISTAJA\code\CSharp\meta\Math\bin\Debug\net8.0\8.Math.runtimeconfig.json
+C:\Users\OMISTAJA\code\CSharp\meta\Math\bin\Debug\net8.0\8.Math.dll
+C:\Users\OMISTAJA\code\CSharp\meta\Math\bin\Debug\net8.0\8.Math.pdb
+C:\Users\OMISTAJA\code\CSharp\meta\Math\obj\Debug\net8.0\8.Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMISTAJA\code\CSharp\meta\Math\obj\Debug\net8.0\8.Math.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\code\CSharp\meta\Math\obj\Debug\net8.0\8.Math.AssemblyInfo.cs
+C:\Users\OMISTAJA\code\CSharp\meta\Math\obj\Debug\net8.0\8.Math.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\code\CSharp\meta\Math\obj\Debug\net8.0\8.Math.sourcelink.json
+C:\Users\OMISTAJA\code\CSharp\meta\Math\obj\Debug\net8.0\8.Math.dll
+C:\Users\OMISTAJA\code\CSharp\meta\Math\obj\Debug\net8.0\refint\8.Math.dll
+C:\Users\OMISTAJA\code\CSharp\meta\Math\obj\Debug\net8.0\8.Math.pdb
+C:\Users\OMISTAJA\code\CSharp\meta\Math\obj\Debug\net8.0\8.Math.genruntimeconfig.cache
+C:\Users\OMISTAJA\code\CSharp\meta\Math\obj\Debug\net8.0\ref\8.Math.dll

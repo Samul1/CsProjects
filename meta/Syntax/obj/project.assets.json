@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OMISTAJA\\code\\CSharp\\meta\\Syntax\\Syntax.csproj",
-      "projectName": "Syntax",
-      "projectPath": "C:\\Users\\OMISTAJA\\code\\CSharp\\meta\\Syntax\\Syntax.csproj",
+      "projectUniqueName": "C:\\Users\\OMISTAJA\\code\\CSharp\\meta\\Syntax\\1.Syntax.csproj",
+      "projectName": "1.Syntax",
+      "projectPath": "C:\\Users\\OMISTAJA\\code\\CSharp\\meta\\Syntax\\1.Syntax.csproj",
       "packagesPath": "C:\\Users\\OMISTAJA\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\OMISTAJA\\code\\CSharp\\meta\\Syntax\\obj\\",
       "projectStyle": "PackageReference",

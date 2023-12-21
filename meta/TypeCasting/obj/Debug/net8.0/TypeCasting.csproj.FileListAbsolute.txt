@@ -1,0 +1,15 @@
+C:\Users\OMISTAJA\code\CSharp\meta\TypeCasting\bin\Debug\net8.0\TypeCasting.exe
+C:\Users\OMISTAJA\code\CSharp\meta\TypeCasting\bin\Debug\net8.0\TypeCasting.deps.json
+C:\Users\OMISTAJA\code\CSharp\meta\TypeCasting\bin\Debug\net8.0\TypeCasting.runtimeconfig.json
+C:\Users\OMISTAJA\code\CSharp\meta\TypeCasting\bin\Debug\net8.0\TypeCasting.dll
+C:\Users\OMISTAJA\code\CSharp\meta\TypeCasting\bin\Debug\net8.0\TypeCasting.pdb
+C:\Users\OMISTAJA\code\CSharp\meta\TypeCasting\obj\Debug\net8.0\TypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMISTAJA\code\CSharp\meta\TypeCasting\obj\Debug\net8.0\TypeCasting.AssemblyInfoInputs.cache
+C:\Users\OMISTAJA\code\CSharp\meta\TypeCasting\obj\Debug\net8.0\TypeCasting.AssemblyInfo.cs
+C:\Users\OMISTAJA\code\CSharp\meta\TypeCasting\obj\Debug\net8.0\TypeCasting.csproj.CoreCompileInputs.cache
+C:\Users\OMISTAJA\code\CSharp\meta\TypeCasting\obj\Debug\net8.0\TypeCasting.sourcelink.json
+C:\Users\OMISTAJA\code\CSharp\meta\TypeCasting\obj\Debug\net8.0\TypeCasting.dll
+C:\Users\OMISTAJA\code\CSharp\meta\TypeCasting\obj\Debug\net8.0\refint\TypeCasting.dll
+C:\Users\OMISTAJA\code\CSharp\meta\TypeCasting\obj\Debug\net8.0\TypeCasting.pdb
+C:\Users\OMISTAJA\code\CSharp\meta\TypeCasting\obj\Debug\net8.0\TypeCasting.genruntimeconfig.cache
+C:\Users\OMISTAJA\code\CSharp\meta\TypeCasting\obj\Debug\net8.0\ref\TypeCasting.dll

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\OMISTAJA\\code\\CSharp\\meta\\Variables\\Variables.csproj",
-      "projectName": "Variables",
-      "projectPath": "C:\\Users\\OMISTAJA\\code\\CSharp\\meta\\Variables\\Variables.csproj",
+      "projectUniqueName": "C:\\Users\\OMISTAJA\\code\\CSharp\\meta\\Variables\\3.Variables.csproj",
+      "projectName": "3.Variables",
+      "projectPath": "C:\\Users\\OMISTAJA\\code\\CSharp\\meta\\Variables\\3.Variables.csproj",
       "packagesPath": "C:\\Users\\OMISTAJA\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\OMISTAJA\\code\\CSharp\\meta\\Variables\\obj\\",
       "projectStyle": "PackageReference",
