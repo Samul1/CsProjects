@@ -4,11 +4,20 @@
 
 ## Content:
 💀 Skeleton program
-📝 Syntax
-▶️ Output
-🔠 Variables
-🔣 DataTypes
-💱 TypeCasting
-◀️ UserInput
-🔣 Operators
-🧮 Math
+
+📝 1. Syntax
+
+▶️ 2. Output
+
+🔠 3. Variables
+
+🔣 4. DataTypes
+
+💱 5. TypeCasting
+
+◀️ 6. UserInput
+
+🔣 7. Operators
+
+🧮 8. Math
+
