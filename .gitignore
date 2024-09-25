@@ -1,14 +1,6 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/meta/.vs/meta/FileContentIndex/04b1778a-2243-4eba-a222-cda5b080e234.vsidx
-/meta/.vs/meta/FileContentIndex/881a1e7e-187d-4509-bb2b-981209681fb1.vsidx
-/meta/.vs/meta/FileContentIndex/91708194-cdae-4ad4-a3e9-d93c46bc1595.vsidx
-/meta/.vs/meta/FileContentIndex/9a692069-0767-47fa-9594-672ad63e800a.vsidx
-/meta/.vs/meta/FileContentIndex/ca2edfc4-027a-49e5-aaa3-cd51a6400c18.vsidx
-/meta/.vs/meta/FileContentIndex/ebbc3950-9043-4162-9b45-611fc9e883b7.vsidx
-/meta/.vs/meta/FileContentIndex/a7e40e6a-d7a8-4b86-a655-ca49538a86f4.vsidx
-/meta/.vs/meta/FileContentIndex/9c15141b-27b4-4de1-a49d-9f215c9a8618.vsidx
-/meta/.vs/meta/FileContentIndex/25550aa0-2eba-489f-8916-43b701c443c2.vsidx
-/meta/.vs/meta/FileContentIndex/0a3f9272-0860-48d0-bfc3-0add1915df87.vsidx
+build
+release
+out
+.out
+.vs
+CMakeLists.txt.user
