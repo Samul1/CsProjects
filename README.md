@@ -2,7 +2,7 @@
 
 * Here is my collection of C# tutorials and projects.
 
-## Projects
+## Console App Projects:
 
 * Average Calculator
     * Asks user the number of inputs and calculates average of those numbers.
@@ -11,7 +11,11 @@
 * Temperature converter
     * Can convert Celcius to Fahrenheit or otherway around.
 
-## tutorials
+## Windows Forms App Projects:
+
+## .NET MAUI App Projects:
+
+## tutorials:
 
 * Skeleton program
 1. Syntax
