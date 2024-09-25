@@ -2,7 +2,16 @@
 
 * Here is my collection of C# tutorials and projects.
 
-## C# tutorials
+## Projects
+
+* Average Calculator
+    * Asks user the number of inputs and calculates average of those numbers.
+* Circle Area Calculator
+    * Asks user radius of the circle, calculate its area and prints out the answer.
+* Temperature converter
+    * Can convert Celcius to Fahrenheit or otherway around.
+
+## tutorials
 
 * Skeleton program
 1. Syntax
